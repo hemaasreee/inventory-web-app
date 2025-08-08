@@ -346,7 +346,6 @@ class InventoryApp {
                     </td>
                     <td><strong>${item.total_stock_received}</strong></td>
                     <td>${item.min_stock_level} / ${item.max_stock_level}</td>
-                    <td>${item.projectName}</td>
                     <td>${item.location}</td>
                     <td>
                         <div class="action-buttons">
